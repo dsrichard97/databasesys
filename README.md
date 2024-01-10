@@ -1,2 +1,1 @@
-# databasesys
-Focus: Highlight a high level overview of membership deployments.
+# Database Systems - High Level Overview
