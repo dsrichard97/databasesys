@@ -4,6 +4,11 @@ The Membership Management System Prototype developed features an integrated tick
 
 
 ## Defining Project Scope and Objectives
+- Integrated Ticketing and Survey Mechanism
+- Database Modifications in SQL
+- Backend Engineering 
+- Frontend Interface
+- Ticket-Based Model
 
 
 ## Plan and Design the System:
