@@ -9,6 +9,7 @@
         <ul>
             <li><a href="#Problem">Problem</a></li>
             <li><a href="#Summary">Summary</a></li>
+            <li><a href="#WebDeployment">Web Deployment</a></li>
             <li><a href="#Survey_Mechanism">Survey Mechanism</a></li>
             <li><a href="#Database_Modifications_in_SQL">SQL Modifications</a></li>
             <li><a href="#Integrating_Ticket_System">Ticket System</a></li>
@@ -34,6 +35,11 @@
         <p>
             The Membership Management System Prototype developed features an integrated ticketing and survey mechanism, streamlining user interactions for database modifications in SQL. This approach bridges user requests and backend processing, enabling efficient tracking and execution of database amendments. The backend is engineered to simulate real-world scenarios, including appointment scheduling, medical record management, and personal data handling, utilizing randomized data sets for robust testing. The frontend of the system presents analytical insights in a user-friendly interface. A developer-centric ticket-based model enhances user engagement and operational efficiency.
         </p>
+        </section>
+    <section class="section" id="WebDeployment">
+        <h2>Web Deployment</h2>
+        <!-- Content of the Survey Mechanism section -->
+    </section>
     </section>
     <section class="section" id="Survey_Mechanism">
         <h2>Survey Mechanism</h2>
