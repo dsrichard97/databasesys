@@ -12,7 +12,7 @@ The Membership Management System Prototype developed features an integrated tick
 - [Resources](##Resources)
 
 
-##Survery Mechanism
+## Survery Mechanism
 
 
 
