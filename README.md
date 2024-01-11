@@ -10,8 +10,6 @@
         - ** Objective** : Develop a comprehensive database system to manage and analyze membership data efficiently.
         - ** Scope** : Includes database design, data import/export features, user access controls, and basic reporting capabilities. Does not include advanced analytics or integration with external systems.
         - ** Deliverables** : A fully functional membership database, user manual, and a set of basic reports.
-
-
         </p>
     </div>
      <div class="Quick Summary" id="Summary">
