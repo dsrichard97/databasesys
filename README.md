@@ -37,26 +37,21 @@
         <h2>Backend</h2>
         <p>If you are interested in looking at the SQL pull, look at the previous. [Content continues]... <a href="https://github.com/dsrichard97/chicago_crime/blob/main/crimedataquery.xls">click here</a>.</p>
     </div>
-
     <div class="section" id="Frontend_Interface">
         <h2>Frontend</h2>
         <p>If you are interested in looking at the SQL pull, look at the previous. [Content continues]... <a href="https://github.com/dsrichard97/chicago_crime/blob/main/crimedataquery.xls">click here</a>.</p>
     </div>
-
     <div class="section" id="Ticket_Based_Model">
         <h2>Ticket-Based</h2>
         <p>If you are interested in looking at the SQL pull, look at the previous. [Content continues]... <a href="https://github.com/dsrichard97/chicago_crime/blob/main/crimedataquery.xls">click here</a>.</p>
     </div>
-
     <div class="section" id="Visuals">
-        <h2>Ticket-Based</h2>
+        <h2>Visuals</h2>
         <p>If you are interested in looking at the SQL pull, look at the previous. [Content continues]... <a href="https://github.com/dsrichard97/chicago_crime/blob/main/crimedataquery.xls">click here</a>.</p>
     </div>
-
     <!-- Add other sections -->
 </body>
 </html>
-
 
 
 
