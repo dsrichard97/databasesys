@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Database Systems - Membership Ticketing System</title>
-    <!-- Add other metadata, stylesheets, or scripts here -->
-</head>
 <body style="background-color: #f0f0f0;">
     <header>
         <h1>Database Systems - Membership Ticketing System</h1>
@@ -25,9 +21,19 @@
     </nav>
     <section class="Business-Proposition" id="Problem">
         <!-- Content of the Problem section -->
+        <h2>Problem</h2>
+        <ul>
+            <li><strong>Objective:</strong> Develop a comprehensive database system to manage and analyze membership data efficiently.</li>
+            <li><strong>Scope:</strong> Includes database design, data import/export features, user access controls, and basic reporting capabilities. Does not include advanced analytics or integration with external systems.</li>
+            <li><strong>Deliverables:</strong> A fully functional membership database, user manual, and a set of basic reports.</li>
+        </ul>
     </section>
     <section class="Quick-Summary" id="Summary">
         <!-- Content of the Summary section -->
+        <h2>Summary</h2>
+        <p>
+            The Membership Management System Prototype developed features an integrated ticketing and survey mechanism, streamlining user interactions for database modifications in SQL. This approach bridges user requests and backend processing, enabling efficient tracking and execution of database amendments. The backend is engineered to simulate real-world scenarios, including appointment scheduling, medical record management, and personal data handling, utilizing randomized data sets for robust testing. The frontend of the system presents analytical insights in a user-friendly interface. A developer-centric ticket-based model enhances user engagement and operational efficiency.
+        </p>
     </section>
     <section class="section" id="Survey_Mechanism">
         <h2>Survey Mechanism</h2>
