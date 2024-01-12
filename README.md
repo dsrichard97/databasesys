@@ -45,8 +45,6 @@
         <!-- Content of the Web Dev section -->
         The intial stages requies a sql pull to be made from google bigquery. However, due to privacy and information from real data. It is difficult to find real-time data. As a result, python is used to create a sample data set that renders the same result. Reference the SQL Modification below for a quick overview. Essentially, we are able to do the following... 
     </section>
-<img src="over.png" alt="Flowers in Chania">
-
 
 
 
