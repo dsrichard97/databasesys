@@ -8,7 +8,7 @@
         <h2>Table of Contents</h2>
         <ul>
             <li><a href="#Problem">Problem</a></li>
-            <li><a href="#Summary">Summary</a></li>
+            <li><a href="#Prototype">Mimic</a></li>
             <li><a href="#PyDeployment">Python Deployment</a></li>
             <li><a href="#Survey_Mechanism">Survey Mechanism</a></li>
             <li><a href="#Database_Modifications_in_SQL">SQL Modifications</a></li>
@@ -20,7 +20,7 @@
             <li><a href="#Resources">Resources</a></li>
         </ul>
     </nav>
-    <section class="Business-Proposition" id="Problem">
+    <section class="section" id="Problem">
         <!-- Content of the Problem section -->
         <h2>Problem</h2>
         <ul>
@@ -29,7 +29,7 @@
             <li><strong>Deliverables:</strong> A fully functional membership database, user manual, and a set of basic reports.</li>
         </ul>
     </section>
-    <section class="Quick-Summary" id="Summary">
+    <section class="section" id="Protype">
         <!-- Content of the Summary section -->
         <h2>Summary</h2>
         <p>
