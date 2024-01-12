@@ -31,7 +31,7 @@
     </section>
     <section class="section" id="Protype">
         <!-- Content of the Summary section -->
-        <h2>Summary</h2>
+        <h2>Mimic</h2>
         <p>
             The Membership Management System Prototype developed features an integrated ticketing and survey mechanism, streamlining user interactions for database modifications in SQL. This approach bridges user requests and backend processing, enabling efficient tracking and execution of database amendments. The backend is engineered to simulate real-world scenarios, including appointment scheduling, medical record management, and personal data handling, utilizing randomized data sets for robust testing. The frontend of the system presents analytical insights in a user-friendly interface. A developer-centric ticket-based model enhances user engagement and operational efficiency.
         </p>
