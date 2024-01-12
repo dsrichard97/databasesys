@@ -38,8 +38,7 @@
         </section>
     <section class="section" id="WebDeployment">
         <h2>Web Deployment</h2>
-        <!-- Content of the Survey Mechanism section -->
-        https://github.com/dsrichard97/web_dep/tree/main
+        <!-- Content of the Web Dev section -->
     </section>
     </section>
     <section class="section" id="Survey_Mechanism">
@@ -49,6 +48,8 @@
     <section class="section" id="Database_Modifications_in_SQL">
         <h2>SQL Modifications</h2>
         <!-- Content of the SQL Modifications section -->
+        This GitHub repository highlights the integration of JavaScript in managing and displaying data within a web-based environment. It demonstrates the creation and manipulation of data, primarily using JavaScript, to interact with Google BigQuery. The project exemplifies how JavaScript can be utilized for dynamic data handling and visualization, showcasing efficient data generation, retrieval, and presentation strategies. It serves as a practical guide for developers interested in applying JavaScript in big data scenarios, particularly in cloud-based platforms like Google BigQuery. For more information about process: 
+https://github.com/dsrichard97/web_dep/tree/main
     </section>
     <section class="section" id="Integrating_Ticket_System">
         <h2>Ticket System</h2>
