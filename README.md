@@ -9,7 +9,7 @@
         <ul>
             <li><a href="#Problem">Problem</a></li>
             <li><a href="#Summary">Summary</a></li>
-            <li><a href="#WebDeployment">Web Deployment</a></li>
+            <li><a href="#PyDeployment">Python Deployment</a></li>
             <li><a href="#Survey_Mechanism">Survey Mechanism</a></li>
             <li><a href="#Database_Modifications_in_SQL">SQL Modifications</a></li>
             <li><a href="#Integrating_Ticket_System">Ticket System</a></li>
@@ -36,9 +36,10 @@
             The Membership Management System Prototype developed features an integrated ticketing and survey mechanism, streamlining user interactions for database modifications in SQL. This approach bridges user requests and backend processing, enabling efficient tracking and execution of database amendments. The backend is engineered to simulate real-world scenarios, including appointment scheduling, medical record management, and personal data handling, utilizing randomized data sets for robust testing. The frontend of the system presents analytical insights in a user-friendly interface. A developer-centric ticket-based model enhances user engagement and operational efficiency.
         </p>
         </section>
-    <section class="section" id="WebDeployment">
-        <h2>Web Deployment</h2>
+    <section class="section" id="PyDeployment">
+        <h2>Python Deployment</h2>
         <!-- Content of the Web Dev section -->
+        The intial stages requies a sql pull to be made from google bigquery. However, due to privacy and information from real data. It is difficult to find real-time data. As a result, python is used to create a sample data set that renders the same result. Reference the SQL Modification below for a quick overview. Essentially, we are able to do the following... 
     </section>
     </section>
     <section class="section" id="Survey_Mechanism">
