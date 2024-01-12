@@ -1,5 +1,5 @@
 ## Project List Overiew
-Click on the link for current progress: 
+Click on the link for current progress: dsrichard97.github.io/databasesys/
 
 1. Create a static file database system
 2. Transition into a live cloud database system
